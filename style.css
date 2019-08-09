@@ -1,0 +1,74 @@
+html {
+  background-image: url(https://images4.alphacoders.com/172/thumb-1920-172746.jpg);
+  background-position: center;
+  height: 100vh;
+}
+
+.pp {
+  border: 1px solid white;
+  border-radius: 6px;
+}
+
+.card {
+  background-color: aliceblue;
+  border: 1px lightcyan solid;
+  border-radius: 5px;
+}
+
+.white-background {
+  background-color: white;
+}
+
+.center-text {
+  text-align: center;
+}
+
+.sans-serif {
+  font-family: sans-serif;
+}
+
+.justify-text {
+  text-align: justify;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.row {
+  display: flex;
+}
+
+.col {
+  display: flex;
+  flex-direction: column;
+}
+
+.p-1 {
+  padding: 1rem;
+}
+
+.p-2 {
+  padding: 1rem;
+}
+
+.p-3 {
+  padding: 1rem;
+}
+
+.p-4 {
+  padding: 1rem;
+}
+
+.p-5 {
+  padding: 1rem;
+}
+
+.my-name {
+  font-weight: 600;
+  font-size: 2rem;
+}
+
+.mb-1 {
+  margin-bottom: 1rem;
+}
